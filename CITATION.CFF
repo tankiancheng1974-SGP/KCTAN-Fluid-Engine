@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+    orcid: "https://orcid.org" # Optional: Add yours if available
+title: "KCTAN Fluid Mechanics Engine: Continuous Kinetic Transformations"
+version: 1.0.0
+date-released: 2026-10-09
+url: "https://github.com"
